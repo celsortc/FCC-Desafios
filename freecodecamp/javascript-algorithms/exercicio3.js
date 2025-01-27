@@ -1,7 +1,5 @@
-let character = "Hello";
+let i = 0;
 
-console.log(character);
-
-let = "World";
-
-console.log(character);
+for (i = 0; i < 10; i++) {
+  console.log(i);
+}
